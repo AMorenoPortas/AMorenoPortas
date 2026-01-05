@@ -28,7 +28,8 @@ Plataforma para la gestión y contratación de servicios de limpieza.
 - Funcionalidades: desarrollo de interfaces responsivas, sistema de autenticación con Auth0, integración de pasarela de pagos con Stripe, gestión de estado de la aplicación, validación de formularios en tiempo real.  
 - Trabajo en equipo multidisciplinario (6 personas) bajo metodología ágil.  
 
-🔗 [Repositorio](https://github.com/tu-usuario/cleengo)   
+🔗 [Repositorio](https://github.com/AMorenoPortas/CleenGo-Back)   
+🔗 [Repositorio](https://github.com/AMorenoPortas/CleenGo-Front) 
 
 **Tecnologías:** React · TypeScript · Material UI · Vite · Auth0 · Stripe · Axios · React Router
 
