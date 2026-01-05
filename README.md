@@ -6,7 +6,7 @@ Soy Desarrolladora Frontend enfocada en React, TypeScript y Material UI, con exp
 
 Me destaco por mi capacidad de trabajo en equipo, buena comunicación, adaptabilidad y enfoque en escribir código limpio y mantenible. Disfruto aprender nuevas tecnologías y aportar valor en proyectos reales que impacten positivamente a los usuarios.
 
-📄 [Descargar mi CV (Currículum Vitae - Frontend Developer)](url-de-tu-cv.pdf)
+📄 [Descargar mi CV (Currículum Vitae - Frontend Developer)](https://github.com/AMorenoPortas/AMorenoPortas/raw/main/Agustina-Moreno-Portas-CV-Frontend-Developer.pdf)
 
 ---
 
