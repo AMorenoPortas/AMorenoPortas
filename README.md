@@ -1,4 +1,4 @@
-# Hola, soy Agustina Moreno Portas!
+# Hola, soy María Agustina Moreno Portas!
 **Frontend Developer** | React · TypeScript · Material UI  
 📍 Córdoba, Argentina  
 
