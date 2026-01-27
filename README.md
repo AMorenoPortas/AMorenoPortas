@@ -6,7 +6,7 @@ Soy Desarrolladora Frontend enfocada en React, TypeScript y Material UI, con exp
 
 Me destaco por mi capacidad de trabajo en equipo, buena comunicación, adaptabilidad y enfoque en escribir código limpio y mantenible. Disfruto aprender nuevas tecnologías y aportar valor en proyectos reales que impacten positivamente a los usuarios.
 
-📄 [Descargar mi CV (Currículum Vitae - Frontend Developer)](https://github.com/AMorenoPortas/AMorenoPortas/raw/main/Agustina%20Moreno%20Portas%20-%20CV%20-%20Frontend%20Developer.pdf)
+📄 [Descargar mi CV (Currículum Vitae - Fullstack Developer - frontend)](https:/https://github.com/AMorenoPortas/AMorenoPortas/blob/main/Agustina_Moreno_Portas_CV_Fullstack_Developer.pdf)
 
 ---
 
@@ -45,7 +45,7 @@ Plataforma para la gestión y contratación de servicios de limpieza.
 ## Contacto
 
 - 📧 Email: **agustinamorenoportas@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-agustina-moreno-portas-240b0b396/)    
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariaagustinamorenoportas/)    
 
 ---
 
