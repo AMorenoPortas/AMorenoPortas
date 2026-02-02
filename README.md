@@ -16,7 +16,7 @@ Me destaco por mi capacidad de trabajo en equipo, buena comunicación, adaptabil
 - **UI/UX:** Material UI, CSS3, Responsive Design, Figma  
 - **Estado & Routing:** React Router, Context API  
 - **Integraciones:** Auth0, Stripe, Axios, SweetAlert2  
-- **Herramientas:** Git, GitHub, Vercel  
+- **Herramientas:** Git, GitHub, Vercel, Node.js  
 
 ---
 
