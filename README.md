@@ -2,7 +2,7 @@
 **Frontend Developer** | React · TypeScript · Material UI  
 📍 Córdoba, Argentina  
 
-Soy Desarrolladora Frontend enfocada en React, TypeScript y Material UI, con experiencia en integración de APIs REST, autenticación (Auth0), pasarelas de pago (Stripe) y optimización de interfaces responsivas. 
+Soy Desarrolladora Fullstack enfocada en frontend, especializada en React, TypeScript, Node.js y Material UI, con experiencia en integración de APIs REST, autenticación (Auth0), pasarelas de pago (Stripe) y optimización de interfaces responsivas. 
 
 Me destaco por mi capacidad de trabajo en equipo, buena comunicación, adaptabilidad y enfoque en escribir código limpio y mantenible. Disfruto aprender nuevas tecnologías y aportar valor en proyectos reales que impacten positivamente a los usuarios.
 
