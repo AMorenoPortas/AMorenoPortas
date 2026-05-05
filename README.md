@@ -1,51 +1,56 @@
 # Hola, soy María Agustina Moreno Portas!
-**Frontend Developer** | React · TypeScript · Material UI  
+**Fullstack Developer especializada en Frontend** | React · TypeScript · Next.js · Node.js  
 📍 Córdoba, Argentina  
-
 Soy Desarrolladora Fullstack enfocada en frontend, especializada en React, TypeScript, Node.js y Material UI, con experiencia en integración de APIs REST, autenticación (Auth0), pasarelas de pago (Stripe) y optimización de interfaces responsivas. 
-
 Me destaco por mi capacidad de trabajo en equipo, buena comunicación, adaptabilidad y enfoque en escribir código limpio y mantenible. Disfruto aprender nuevas tecnologías y aportar valor en proyectos reales que impacten positivamente a los usuarios.
 
-📄 [Descargar mi CV (Curriculum Vitae - Fullstack Developer -  espeacializ. Frontend)](https://github.com/AMorenoPortas/AMorenoPortas/raw/main/Agustina_Moreno_Portas_CV_Fullstack_Developer.pdf)
+📄 [Descargar mi CV (Curriculum Vitae - Fullstack Developer - especializ. Frontend)](https://github.com/AMorenoPortas/AMorenoPortas/raw/main/Maria_Agustina_Moreno_Portas_CV_FULLSTACK_DEV.pdf)
 
 ---
 
 ## Stack Tecnológico
-
-- **Frontend:** React, TypeScript, JavaScript (ES6+), Vite  
-- **UI/UX:** Material UI, CSS3, Responsive Design, Figma  
+- **Frontend:** React, Next.js, TypeScript, JavaScript (ES6+), Vite  
+- **UI/UX:** Material UI, Tailwind CSS, CSS3, Responsive Design, Figma  
 - **Estado & Routing:** React Router, Context API  
+- **Backend & BD:** Node.js, Express, PostgreSQL, Prisma ORM, Supabase  
 - **Integraciones:** Auth0, Stripe, Axios, SweetAlert2  
-- **Herramientas:** Git, GitHub, Vercel, Node.js  
+- **Herramientas:** Git, GitHub, Vercel  
 
 ---
 
 ## Proyectos Destacados
+
+### GranaBank *(Pasantía - Club Atlético Lanús, 2025)*
+Web app bancaria para el Club Atlético Lanús. Permite a los socios visualizar su balance, movimientos y filtrarlos por tipo.  
+- Rol: **Fullstack Developer**  
+- Funcionalidades: login con validación, home con tarjeta y últimos movimientos, lista de movimientos con buscador y filtros, estados de loading y vacío.  
+- Proyecto individual siguiendo diseño provisto en Figma.  
+🔗 [Repositorio](https://github.com/AMorenoPortas/granabank-lanus)  
+🌐 [Demo en vivo](https://granabank-lanus.vercel.app)  
+**Tecnologías:** Next.js · TypeScript · Tailwind CSS · Prisma ORM · PostgreSQL · Supabase · SweetAlert2 · Vercel
+
+---
 
 ### CleenGo *(Proyecto Full Stack - Henry, 2025)*
 Plataforma para la gestión y contratación de servicios de limpieza.  
 - Rol: **Frontend Developer**  
 - Funcionalidades: desarrollo de interfaces responsivas, sistema de autenticación con Auth0, integración de pasarela de pagos con Stripe, gestión de estado de la aplicación, validación de formularios en tiempo real.  
 - Trabajo en equipo multidisciplinario (6 personas) bajo metodología ágil.  
-
-🔗 [Repositorio Back](https://github.com/AMorenoPortas/CleenGo-Back)   
-🔗 [Repositorio Front](https://github.com/AMorenoPortas/CleenGo-Front) 
-
+🔗 [Repositorio Back](https://github.com/AMorenoPortas/CleenGo-Back)  
+🔗 [Repositorio Front](https://github.com/AMorenoPortas/CleenGo-Front)  
 **Tecnologías:** React · TypeScript · Material UI · Vite · Auth0 · Stripe · Axios · React Router
 
 ---
 
 ## Educación
-
 - **Soy Henry – Bootcamp Full Stack Web Developer (2025)**  
 800+ horas de programación intensiva en JavaScript, React, TypeScript, Node.js y metodologías ágiles (SCRUM).  
 
 ---
 
 ## Contacto
-
 - 📧 Email: **agustinamorenoportas@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mariaagustinamorenoportas/)    
+- 💼 [LinkedIn](https://www.linkedin.com/in/mariaagustinamorenoportas/)  
 
 ---
 
